@@ -1,3 +1,5 @@
 <script>
-document.write("JavaScript is not Java");
+function myFunction() {
+  alert("I am an alert box!");
+}
 </script>
